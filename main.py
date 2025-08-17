@@ -43,7 +43,7 @@ class TestUrbanRoutes:
 
     def test_order_2_ice_creams(self):
         # Add in S8
-        for _ in range(2):
+        for _ in range(data.ICE_CREAM_COUNT):
             # Add in S8
             pass
 

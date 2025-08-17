@@ -1,6 +1,6 @@
 # Test data constants for Urban Routes
 
-URBAN_ROUTES_URL = 'https://cnt-48536fb9-c9b3-4c93-9d45-962a1b15c1a8.containerhub.tripleten-services.com/'
+URBAN_ROUTES_URL = 'https://cnt-e7c8d6b8-d525-45a6-8ffb-22fe166e975f.containerhub.tripleten-services.com/'
 
 
 ADDRESS_FROM = 'East 2nd Street, 601'
@@ -9,4 +9,5 @@ PHONE_NUMBER = '+1 123 123 12 12'
 CARD_NUMBER = '1234 5678 9100'
 CARD_CODE = '1111'
 MESSAGE_FOR_DRIVER = 'Stop at the juice bar, please'
+ICE_CREAM_COUNT = 2
 
